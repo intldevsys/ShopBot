@@ -120,7 +120,7 @@ Optionally protect customer shipping addresses with a secondary password. When s
 Create additional admin accounts for team members. Each account has its own username and password. You can change passwords or remove accounts at any time. The last remaining account cannot be deleted.
 
 ---
-<img width="1387" height="795" alt="image" src="https://github.com/user-attachments/assets/b43741b5-9612-4853-a84d-dfbadfbeee92" />
+<img width="1950" height="1514" alt="image" src="https://github.com/user-attachments/assets/337e4c74-7e23-48ab-a977-cf16d728ee57" />
 
 ## Customer Experience (Telegram)
 
