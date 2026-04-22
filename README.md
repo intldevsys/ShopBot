@@ -1,5 +1,4 @@
-![bot_vid](https://github.com/user-attachments/assets/a35d4463-3564-42f5-95cc-420d98ceca03)
-
+<img width="1900" height="838" alt="ShopBot" src="https://github.com/user-attachments/assets/d4cad7f2-7c41-4271-8bbc-78344dbb5db9" />
 
 # ShopBot — Preview and Merchant Guide
 
