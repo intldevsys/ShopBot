@@ -2,7 +2,7 @@
 
 # ShopBot — Preview and Merchant Guide
 
-ShopBot is a Telegram-based storefront for selling physical goods with Bitcoin payments. Customers browse and buy entirely inside Telegram. You manage everything — products, orders, wallets, and settings — through a private web-based admin panel.
+ShopBot is a Telegram-based storefront for selling physical goods with Bitcoin payments. Customers browse and buy entirely inside Telegram. You manage everything — products, orders, wallets, and settings — through a private web-based admin panel. (Contact @gdsys_shop on Telegram if interested)
 
 ---
 
