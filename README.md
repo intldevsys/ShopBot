@@ -1,4 +1,4 @@
-![botvid](https://github.com/user-attachments/assets/94845f28-3f77-4ca7-8f04-43f3ee45d87b)
+![bot_vid](https://github.com/user-attachments/assets/a35d4463-3564-42f5-95cc-420d98ceca03)
 
 
 # ShopBot — Preview and Merchant Guide
